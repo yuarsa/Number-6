@@ -47,7 +47,7 @@ This architecture uses events that separate the real-time process of updating sc
 
 High Level Diagram
 
-![flow.png](https://drive.google.com/file/d/1KpobsaLUyx40I5RB-j-bC2dysn4DNd7u/view?usp=sharing)
+![flow.png](https://res.cloudinary.com/dbp0861hz/image/upload/v1762693748/flow_n8atqn.png)
 
 ## API Specification
 
